@@ -2,6 +2,7 @@
   "name": "responsive-web",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://inkdog55.github.io/deploy-practice-responsive-web",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
